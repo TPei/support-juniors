@@ -14,11 +14,14 @@ We are the online marketplace for unique and handmade items, where designers and
 **4. Stack & main technologies:**  
 Ruby, Rails, Scala, CoffeeScript, Sinatra, Docker and [more](http://stackshare.io/dawanda-gmbh).  
 
-**5. How do you support juniors?** We have a 90 min learning sessions every week where everybody can attend and suggest topics, we do pair programming. Every junior has at least one responsible senior to approach if help is needed.
+**5. How do you support juniors?**  
+We have a 90 min learning sessions every week where everybody can attend and suggest topics, we do pair programming. Every junior has at least one responsible senior to approach if help is needed.
 
-**6. Did you or your team participate in any beginner/junior support event?** More than 6 developers of our team coached at Rails Girls Berlin, Ruby learning groups or ClojureBridge. Two of our junior devs organized these events plus DaWanda is a long term sponsor for [Rails Girls Berlin](http://railsgirlsberlin.de/)
+**6. Did you or your team participate in any beginner/junior support event?**  
+More than 6 developers of our team coached at Rails Girls Berlin, Ruby learning groups or ClojureBridge. Two of our junior devs organized these events plus DaWanda is a long term sponsor for [Rails Girls Berlin](http://railsgirlsberlin.de/)
 
-**7. Does your company support taking work time off for educational reasons?** Yes, as described in [3]. 
+**7. Does your company support taking work time off for educational reasons?**  
+Yes, as described in [3]. 
 
 ---
 
@@ -34,17 +37,17 @@ We are an agency creating websites and online projects for a diverse range of cl
 **3. Amount juniors:**
 1
 
-**4. Stack & main technologies:** 
+**4. Stack & main technologies:**  
 [In detail](http://www.ikusei.de/agentur/blog/our-tech-stack)
 Ruby, Rails, MySQL, JS with React.js, Atlassian solutions (Jira, Confluence, Hipchat etc.)
 
-**5. How do you support juniors? If you have no juniors, how do you want to support them in the future?** (e.g. learning sessions, pair programming)
+**5. How do you support juniors? If you have no juniors, how do you want to support them in the future?**  
 We do pair programming with juniors, try to keep the wiki up-to-date with helpful things and are open for/encourage questions. There is a more-or-less weekly show and tell.
 
-**6. Did you or your team participate in any beginner/junior support event?** e.g. coaching at Rails Girls etc.
+**6. Did you or your team participate in any beginner/junior support event?**  
 One of us coaches at Rails Girls events.
 
-**7. Does your company support taking work time off for educational reasons?** (e.g. can a junior approach someone in the team whenever there are problems or help is needed?)
+**7. Does your company support taking work time off for educational reasons?**  
 There is always time for asking questions or pair programming on problems. If you have something on your mind just approach someone or yell into the room (or curse if necessary! :-] ) and someone will answer.
 
 ---
