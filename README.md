@@ -13,7 +13,7 @@ We want to collect offers for **intern and junior positions** to give beginners 
 ### About us
 
 Bodo is a developer at bitcrowd and is currently preparing their Junior Developer Curriculum.  
-Malwine works as a junior at DaWanda. Both want to encourage companies to hire and support juniors. 
+Malwine works as a junior at DaWanda. Both want to encourage companies to hire and support juniors.
 The idea for the repo resulted from a [tweet](https://twitter.com/bitboxer/status/558921160562597890) from Bodo.  
 
 ### How to contribute
@@ -32,6 +32,7 @@ Companies that want to hire juniors in the future.
 
 - [Barzahlen](http://barzahlen.de) [Berlin, Germany]
 - [ikusei](http://ikusei.de) [Berlin, Germany]
+- [shipcloud.io](https://www.shipcloud.io/en) [Hamburg, Germany]
 - [ Insert your company here!! ]  
 
 ### Companies with open internship positions
@@ -54,6 +55,7 @@ For what that means in detail we created this repo and would like to hear your o
 - [trecker.com](http://trecker.com) [Berlin, Germany]
 - [ikusei](http://ikusei.de) [Berlin, Germany]
 - [makerist](https://www.makerist.de)
+- [shipcloud.io](https://www.shipcloud.io/en) [Hamburg, Germany]
 - [ Insert your company here!! ]
 
 

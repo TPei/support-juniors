@@ -1,4 +1,4 @@
-# Companies 
+# Companies
 > Dear Contributors, please fill out these questions when commiting a PR.
 
 ### [DaWanda](en.dawanda.com/)  
@@ -21,17 +21,17 @@ We have a 90 min learning sessions every week where everybody can attend and sug
 More than 6 developers of our team coached at Rails Girls Berlin, Ruby learning groups or ClojureBridge. Two of our junior devs organized these events plus DaWanda is a long term sponsor for [Rails Girls Berlin](http://railsgirlsberlin.de/)
 
 **7. Does your company support taking work time off for educational reasons?**  
-Yes, as described in [3]. 
+Yes, as described in [3].
 
 ---
 
 ### [ikusei](http://www.ikusei.de)  
-[Jobs](http://www.ikusei.de/jobs) | [Blog](http://www.ikusei.de/agentur/blog) 
+[Jobs](http://www.ikusei.de/jobs) | [Blog](http://www.ikusei.de/agentur/blog)
 
 **1. What is your company's product? What does you company do?**
 We are an agency creating websites and online projects for a diverse range of clients. Our main products are [Golden Cobra](https://github.com/ikusei/Goldencobra/) and [Lokale Keywords](http://lokale-keywords.de/).
 
-**2. Total amount of devs including juniors:** 
+**2. Total amount of devs including juniors:**
 5
 
 **3. Amount juniors:**
@@ -52,18 +52,51 @@ There is always time for asking questions or pair programming on problems. If yo
 
 ---
 
-> Please copy the part below and fill it out. Leave one empty version for the next contributor. 
-
-### [company-name](link)  
-[Jobs](link) | [Blog](link) 
+### [shipcloud GmbH](https://www.shipcloud.io)  
+[Jobs](https://www.shipcloud.io/en/company/jobs)
 
 **1. What is your company's product? What does you company do?**
 
-**2. Total amount of devs including juniors:** 
+We call ourselves a shipping service provider. What stripe, paymill and others do for payment we're doing for shipping. This means we're making it easy for merchants to integrate shipping with multiple carriers into their shops or backends. You can find detailed information about us at [our website](https://www.shipcloud.io/en/company/about).
+
+**2. Total amount of devs including juniors:**
+
+Depending on the current workload 3-4.
 
 **3. Amount juniors:**
 
-**4. Stack & main technologies:** 
+1
+
+**4. Stack & main technologies:**
+
+Ruby, Rails, PostgreSQL, CoffeeScript, HAML, RSpec and [a lot more](http://stackshare.io/shipcloud-gmbh)
+
+**5. How do you support juniors? If you have no juniors, how do you want to support them in the future?** (e.g. learning sessions, pair programming)
+
+From the start every junior gets a dedicated mentor who's helping them with everything they need and answering all the questions they might have. It's our goal to enable every new hire (especially the juniors) to have their first live deployment as soon as possible to get the ball rolling and have a first sense of achievement within a few days.
+
+**6. Did you or your team participate in any beginner/junior support event?** e.g. coaching at Rails Girls etc.
+
+Two of us are co organizing the Rails Girls Hamburg events (of which one is our current junior).
+
+**7. Does your company support taking work time off for educational reasons?** (e.g. can a junior approach someone in the team whenever there are problems or help is needed?)
+
+Definitely! See [5]
+
+---
+
+> Please copy the part below and fill it out. Leave one empty version for the next contributor.
+
+### [company-name](link)  
+[Jobs](link) | [Blog](link)
+
+**1. What is your company's product? What does you company do?**
+
+**2. Total amount of devs including juniors:**
+
+**3. Amount juniors:**
+
+**4. Stack & main technologies:**
 
 **5. How do you support juniors? If you have no juniors, how do you want to support them in the future?** (e.g. learning sessions, pair programming)
 
