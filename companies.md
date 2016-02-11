@@ -113,6 +113,30 @@ We do and I'm happy to answer all your questions thoroughly.
 
 ---
 
+### [Gapfish](http://www.gapfish.com/en/)
+[Jobs](http://www.gapfish.com/de/team/) 
+
+**1. What is your company's product? What does you company do?**
+We are GapFish – the specialist for online surveys. We are a panel provider. We bring people together with markets.
+
+**2. Total amount of devs including juniors:** 6 at the moment of writing this.
+
+**3. Amount juniors:**  2 out of 6.
+
+**4. Stack & main technologies:**
+Ruby, Rails, Sinatra, CoffeeScript, Docker and [more](http://stackshare.io/gapfish-gmbh).
+
+**5. How do you support juniors?**
+Pair Programming and Code Reviews are an integral part of our culutre at Gapfish. We give extensive and constructive feedback for all the work we do.
+
+**6. Did you or your team participate in any beginner/junior support event?**
+Sadly, no. Not yet at least ;)
+
+**7. Does your company support taking work time off for educational reasons?** (e.g. can a junior approach someone in the team whenever there are problems or help is needed?)
+Absolutely! You can always ask someone for help and input and everyone is always happy to help. We explicitly want every developer to invest into their own education, so we encourage you to spend some time each day learning something new. Be it a rubytapas, an article or a podcast...
+
+---
+
 > Please copy the part below and fill it out. Leave one empty version for the next contributor.
 
 ### [company-name](link)
